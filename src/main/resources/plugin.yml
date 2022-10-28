@@ -1,0 +1,9 @@
+name: ChickenRain
+version: '${project.version}'
+main: plugin.mefroggy.chickenrain
+api-version: 1.19
+authors: [ mefroggy ]
+description: Rain chickens from sky and possibly more
+commands:
+  chickenrain:
+    description: Enables all commands
